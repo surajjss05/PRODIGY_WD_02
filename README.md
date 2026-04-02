@@ -8,7 +8,7 @@ A responsive and interactive stopwatch web app built with **HTML**, **CSS**, and
 
 ## 📸 Preview
 
-![Stopwatch App Screenshot](Screenshot_2026-04-02_165858.png)
+![Stopwatch App Screenshot](preview.png)
 
 ---
 
