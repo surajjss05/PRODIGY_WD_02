@@ -1,7 +1,8 @@
-# PRODIGY_WD_02
 # ⏱️ Stopwatch Web Application
 
 A responsive and interactive stopwatch web app built with **HTML**, **CSS**, and **JavaScript** — featuring start, pause, reset, and lap time tracking.
+
+🔴 **Live Demo:** [https://stoppwat.netlify.app/](https://stoppwat.netlify.app/)
 
 ---
 
